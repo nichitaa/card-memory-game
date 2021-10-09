@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/card-memory-game/static/css/main.ed0d4d38.chunk.css",
+    "main.js": "/card-memory-game/static/js/main.11abc138.chunk.js",
+    "main.js.map": "/card-memory-game/static/js/main.11abc138.chunk.js.map",
+    "runtime-main.js": "/card-memory-game/static/js/runtime-main.0b0b5112.js",
+    "runtime-main.js.map": "/card-memory-game/static/js/runtime-main.0b0b5112.js.map",
+    "static/css/2.a95be28f.chunk.css": "/card-memory-game/static/css/2.a95be28f.chunk.css",
+    "static/js/2.4a6ca076.chunk.js": "/card-memory-game/static/js/2.4a6ca076.chunk.js",
+    "static/js/2.4a6ca076.chunk.js.map": "/card-memory-game/static/js/2.4a6ca076.chunk.js.map",
+    "index.html": "/card-memory-game/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/card-memory-game/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.ed0d4d38.chunk.css.map": "/card-memory-game/static/css/main.ed0d4d38.chunk.css.map",
+    "static/js/2.4a6ca076.chunk.js.LICENSE.txt": "/card-memory-game/static/js/2.4a6ca076.chunk.js.LICENSE.txt",
+    "static/media/PokemonSolid.80f0e812.woff2": "/card-memory-game/static/media/PokemonSolid.80f0e812.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b0b5112.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.4a6ca076.chunk.js",
+    "static/css/main.ed0d4d38.chunk.css",
+    "static/js/main.11abc138.chunk.js"
+  ]
+}
